@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Bình luận cho My WordPress	</title>
+	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhthi240700.github.io/wp_sanpham</link>
+	<description>Huỳnh Minh Thi</description>
+	<lastBuildDate>Sun, 13 Jun 2021 10:19:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		Phản hồi cho NASA công bố thiết kế bộ đồ vũ trụ mới của phi hành gia bởi Thi		</title>
+		<link>https://minhthi240700.github.io/wp_sanpham/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/#comment-16</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:22:26 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=167#comment-16</guid>
+
+					<description><![CDATA[tuyệt vời]]></description>
+			<content:encoded><![CDATA[<p>tuyệt vời</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho &#8216;Chúng tôi tự hào khi được đồng hành với bóng đá Việt Nam&#8217; bởi Thi		</title>
+		<link>https://minhthi240700.github.io/wp_sanpham/the-thao/chung-toi-tu-hao-khi-duoc-dong-hanh-voi-bong-da-viet-nam/#comment-15</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:21:42 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=163#comment-15</guid>
+
+					<description><![CDATA[tuyệt vời]]></description>
+			<content:encoded><![CDATA[<p>tuyệt vời</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Du lịch Nha Trang – Kinh nghiệm toàn tập từ A đến Z bởi Thi		</title>
+		<link>https://minhthi240700.github.io/wp_sanpham/du-lich/du-lich-nha-trang-kinh-nghiem-toan-tap-tu-a-den-z/#comment-14</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:21:26 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=136#comment-14</guid>
+
+					<description><![CDATA[nice]]></description>
+			<content:encoded><![CDATA[<p>nice</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Bốn trường của Việt Nam vào bảng xếp hạng đại học thế giới năm 2022 bởi Thi		</title>
+		<link>https://minhthi240700.github.io/wp_sanpham/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/#comment-13</link>
+
+		<dc:creator><![CDATA[Thi]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 04:21:02 +0000</pubDate>
+		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=171#comment-13</guid>
+
+					<description><![CDATA[hello]]></description>
+			<content:encoded><![CDATA[<p>hello</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
