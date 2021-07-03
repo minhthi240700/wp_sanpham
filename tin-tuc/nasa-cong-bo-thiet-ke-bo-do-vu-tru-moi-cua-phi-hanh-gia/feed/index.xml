@@ -7,29 +7,15 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: NASA công bố thiết kế bộ đồ vũ trụ mới của phi hành gia	</title>
+	Các phản hồi luận về: 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhthi240700.github.io/wp_sanpham/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/</link>
-	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Sat, 12 Jun 2021 04:22:26 +0000</lastBuildDate>
+	<link></link>
+	<description>UY TÍN LÀ SỨC MẠNH</description>
+	<lastBuildDate>Sat, 03 Jul 2021 15:07:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Bởi: Thi		</title>
-		<link>https://minhthi240700.github.io/wp_sanpham/tin-tuc/nasa-cong-bo-thiet-ke-bo-do-vu-tru-moi-cua-phi-hanh-gia/#comment-16</link>
-
-		<dc:creator><![CDATA[Thi]]></dc:creator>
-		<pubDate>Sat, 12 Jun 2021 04:22:26 +0000</pubDate>
-		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=167#comment-16</guid>
-
-					<description><![CDATA[tuyệt vời]]></description>
-			<content:encoded><![CDATA[<p>tuyệt vời</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

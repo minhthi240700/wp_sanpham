@@ -7,29 +7,15 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Bốn trường của Việt Nam vào bảng xếp hạng đại học thế giới năm 2022	</title>
+	Các phản hồi luận về: 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhthi240700.github.io/wp_sanpham/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/</link>
-	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Sat, 12 Jun 2021 04:21:02 +0000</lastBuildDate>
+	<link></link>
+	<description>UY TÍN LÀ SỨC MẠNH</description>
+	<lastBuildDate>Sat, 03 Jul 2021 15:07:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Bởi: Thi		</title>
-		<link>https://minhthi240700.github.io/wp_sanpham/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/#comment-13</link>
-
-		<dc:creator><![CDATA[Thi]]></dc:creator>
-		<pubDate>Sat, 12 Jun 2021 04:21:02 +0000</pubDate>
-		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=171#comment-13</guid>
-
-					<description><![CDATA[hello]]></description>
-			<content:encoded><![CDATA[<p>hello</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

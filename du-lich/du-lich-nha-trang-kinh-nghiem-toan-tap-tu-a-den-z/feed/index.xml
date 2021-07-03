@@ -7,29 +7,15 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Du lịch Nha Trang – Kinh nghiệm toàn tập từ A đến Z	</title>
+	Các phản hồi luận về: 	</title>
 	<atom:link href="http://localhost/myproject/wordpress/du-lich/du-lich-nha-trang-kinh-nghiem-toan-tap-tu-a-den-z/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhthi240700.github.io/wp_sanpham/du-lich/du-lich-nha-trang-kinh-nghiem-toan-tap-tu-a-den-z/</link>
-	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Sun, 13 Jun 2021 09:29:17 +0000</lastBuildDate>
+	<link></link>
+	<description>UY TÍN LÀ SỨC MẠNH</description>
+	<lastBuildDate>Sat, 03 Jul 2021 15:07:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Bởi: Thi		</title>
-		<link>https://minhthi240700.github.io/wp_sanpham/du-lich/du-lich-nha-trang-kinh-nghiem-toan-tap-tu-a-den-z/#comment-14</link>
-
-		<dc:creator><![CDATA[Thi]]></dc:creator>
-		<pubDate>Sat, 12 Jun 2021 04:21:26 +0000</pubDate>
-		<guid isPermaLink="false">https://minhthi240700.github.io/wp_sanpham/?p=136#comment-14</guid>
-
-					<description><![CDATA[nice]]></description>
-			<content:encoded><![CDATA[<p>nice</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

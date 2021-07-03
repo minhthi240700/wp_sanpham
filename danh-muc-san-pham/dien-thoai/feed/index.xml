@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Xiaomi &#8211; My WordPress</title>
+	<title>Xiaomi &#8211; DI ĐỘNG VIỆT</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/dien-thoai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhthi240700.github.io/wp_sanpham</link>
-	<description>Huỳnh Minh Thi</description>
-	<lastBuildDate>Sat, 19 Jun 2021 06:50:49 +0000</lastBuildDate>
+	<description>UY TÍN LÀ SỨC MẠNH</description>
+	<lastBuildDate>Sat, 03 Jul 2021 13:50:50 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>https://minhthi240700.github.io/wp_sanpham/wp-content/uploads/2021/06/cropped-Stryker-32x32.png</url>
-	<title>Xiaomi &#8211; My WordPress</title>
+	<url>https://minhthi240700.github.io/wp_sanpham/wp-content/uploads/2021/07/Minh-Thi-100x100.png</url>
+	<title>Xiaomi &#8211; DI ĐỘNG VIỆT</title>
 	<link>https://minhthi240700.github.io/wp_sanpham</link>
 	<width>32</width>
 	<height>32</height>
