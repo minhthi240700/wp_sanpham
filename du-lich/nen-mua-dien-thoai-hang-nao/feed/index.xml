@@ -1,0 +1,25 @@
+<br />
+<b>Warning</b>:  preg_match_all(): Compilation failed: quantifier does not follow a repeatable item at offset 43 in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\replace-variables\class-post-variables.php</b> on line <b>489</b><br />
+<br />
+<b>Warning</b>:  preg_match_all(): Compilation failed: quantifier does not follow a repeatable item at offset 43 in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\replace-variables\class-post-variables.php</b> on line <b>489</b><br />
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: Bạn thắc mắc &#8220;nên mua điện thoại hãng nào??? Top 6 hãng điện thoại bạn nên mua.	</title>
+	<atom:link href="http://localhost/myproject/wordpress/du-lich/nen-mua-dien-thoai-hang-nao/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhthi240700.github.io/wp_sanpham/du-lich/nen-mua-dien-thoai-hang-nao/</link>
+	<description>UY TÍN LÀ SỨC MẠNH</description>
+	<lastBuildDate>Sun, 04 Jul 2021 08:17:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
