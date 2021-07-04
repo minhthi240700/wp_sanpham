@@ -1,7 +1,3 @@
-<br />
-<b>Warning</b>:  preg_match_all(): Compilation failed: quantifier does not follow a repeatable item at offset 43 in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\replace-variables\class-post-variables.php</b> on line <b>489</b><br />
-<br />
-<b>Warning</b>:  preg_match_all(): Compilation failed: quantifier does not follow a repeatable item at offset 43 in <b>C:\xampp\htdocs\myproject\wordpress\wp-content\plugins\seo-by-rank-math\includes\replace-variables\class-post-variables.php</b> on line <b>489</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -15,7 +11,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tin-tuc/bon-truong-cua-viet-nam-vao-bang-xep-hang-dai-hoc-the-gioi-nam-2022/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>UY TÍN LÀ SỨC MẠNH</description>
-	<lastBuildDate>Sun, 04 Jul 2021 09:08:32 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 Jul 2021 15:44:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
