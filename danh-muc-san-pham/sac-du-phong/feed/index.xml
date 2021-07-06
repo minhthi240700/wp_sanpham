@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/sac-du-phong/feed/" rel="self" type="application/rss+xml" />
 	<link>https://minhthi240700.github.io/wp_sanpham</link>
 	<description>UY TÍN LÀ SỨC MẠNH</description>
-	<lastBuildDate>Thu, 01 Jul 2021 07:12:17 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 09:07:58 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -108,7 +108,7 @@
 		<item>
 		<title>Pin sạc dự phòng Polymer 10.000 mAh AVA+ PJ JP192</title>
 		<link>https://minhthi240700.github.io/wp_sanpham/sanpham/pin-sac-du-phong-polymer-10-000-mah-ava-pj-jp192/</link>
-					<comments>https://minhthi240700.github.io/wp_sanpham/sanpham/pin-sac-du-phong-polymer-10-000-mah-ava-pj-jp192/#respond</comments>
+					<comments>https://minhthi240700.github.io/wp_sanpham/sanpham/pin-sac-du-phong-polymer-10-000-mah-ava-pj-jp192/#comments</comments>
 		
 		<dc:creator><![CDATA[Minh Thi]]></dc:creator>
 		<pubDate>Sat, 19 Jun 2021 06:40:55 +0000</pubDate>
@@ -143,7 +143,7 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://minhthi240700.github.io/wp_sanpham/sanpham/pin-sac-du-phong-polymer-10-000-mah-ava-pj-jp192/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>2</slash:comments>
 		
 		
 			</item>
